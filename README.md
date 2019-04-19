@@ -7,13 +7,14 @@ INTRODUCTION
 
 
 
+
 MODEL DEVELOPMENT
 
-![alt text]()
+       ![alt text](https://github.com/shwetasrsh/Data_Mining_Project/blob/master/model2model.PNG)
 
-Architecture is given as follows - 
+ 
 
- ![alt text](https://github.com/shwetasrsh/Data_Mining_Project/blob/master/img.PNG) 
+         ![alt text](https://github.com/shwetasrsh/Data_Mining_Project/blob/master/img.PNG) 
 
 
 
