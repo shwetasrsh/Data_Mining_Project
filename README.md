@@ -11,7 +11,7 @@ MODEL DEVELOPMENT
 
 Work Flow is given as follows - 
 
- ![ ]
+ ![alt text](https://github.com/shwetasrsh/Data_Mining_Project/blob/master/img.PNG) 
 
 
 
