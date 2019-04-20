@@ -3,10 +3,15 @@
 
 QUORA INSINCERE QUESTIONS CLASSIFICATION
 
+
+
 Table of Contents
 
   1. Introduction
+  
   2. Model Development
+
+
 
 INTRODUCTION
 
@@ -33,6 +38,7 @@ Basic Workflow is shown as follows -
 
 
 ![alt text](https://github.com/shwetasrsh/Data_Mining_Project/blob/master/img.PNG) 
+
 
 
 In this neural network model - 
