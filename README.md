@@ -24,11 +24,16 @@ An insincere question is defined as a question intended to make a statement rath
 
 MODEL DEVELOPMENT
 
+
 ![alt text](https://github.com/shwetasrsh/Data_Mining_Project/blob/master/model2model.PNG)
 
-Flow from Layer to Layer
+
+
+Basic Workflow is shown as follows - 
+
 
 ![alt text](https://github.com/shwetasrsh/Data_Mining_Project/blob/master/img.PNG) 
+
 
 In this neural network model - 
 
