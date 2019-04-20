@@ -33,7 +33,9 @@ Flow from Layer to Layer
 In this neural network model - 
 
 1st layer: Embedding Layer(without pretrained)
+
 2nd layer: Global Average Pooling Layer
+
 3rd layer: Output Dense Layer(using Sigmoid Function)
 
 
